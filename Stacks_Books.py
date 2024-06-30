@@ -161,6 +161,7 @@ try:
 except TypeError as e:
     print(f"Error creating BookStore object: {e}")
 
-print("Press any key to exit...")
+# exit
+print("Press Enter to exit...")
 input(">>> ")
 print("Goodbye!")

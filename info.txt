@@ -1,10 +1,13 @@
-I have been given the topic LEARNING for the project, and I decided to create a Book Store "Stacks Books" that includes some famous books.
+I have been given the topic "LEARNING" for the project, and I decided to create a Book Store "Stacks Books" that includes some famous books.
 
 The code shows the titles of books organized by genre.
 
-Also it gives basic info about the book listed, ex.(Author, price).
+Also it gives basic info about the book listed, ex.(Author, price),.
 
 I used python and added a simple testing method.
+
+edit: Made the book list show up numbered.
+
 
 
 
